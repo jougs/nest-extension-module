@@ -47,3 +47,15 @@ as a start, you have to perform the following steps:
 3. Adapt the example functionality you do need to your needs.
 
 More detailed information can be found in the NEST Developer Manual.
+
+## Installing `MyModule`
+
+After adapting the MyModule example, you can configure, compile and
+install it using the following sequence of commands:
+
+```
+cmake -Dwith-nest=<nest_install_dir>/bin/nest-config .
+make
+make install
+```
+
