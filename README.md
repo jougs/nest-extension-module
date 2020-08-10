@@ -1,7 +1,7 @@
 # NEST Extension Module Example
 
-`MyModule` is an example extension module (i.e a "plugin") for
-the [https://nest-simulator.org](NEST Simulator). Extension modules
+`MyModule` is an example extension module (i.e. a "plugin") for
+the [NEST Simulator](https://nest-simulator.org). Extension modules
 allow users to extend the functionality of NEST without messing with
 the source code of NEST itself, thus making pulls from upstream NEST
 easy, while allowing to extend NEST and sharing the extensions with
